@@ -1,6 +1,6 @@
 DEPENDANT_TEST_CASE,POST,
-END_POINT,http://api-generator.retool.com/7kbSLy/data/ApiGlobalVariables:ID,
-METHOD,RELAX_GET,
+END_POINT,https://api-generator.retool.com/bQTAQE/data/ApiGlobalVariables:ID,
+METHOD,GET,
 PARAMS:KEY,NONE,
 PARAMS:VALUE,NONE,
 AUTH:KEY,NONE,
