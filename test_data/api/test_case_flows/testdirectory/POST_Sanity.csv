@@ -1,5 +1,5 @@
 DEPENDANT_TEST_CASE,NONE,
-END_POINT,https://api-generator.retool.com/bQTAQE/data,
+END_POINT,http://api-generator.retool.com/7kbSLy/data,
 METHOD,POST,
 PARAMS:KEY,NONE,
 PARAMS:VALUE,NONE,
